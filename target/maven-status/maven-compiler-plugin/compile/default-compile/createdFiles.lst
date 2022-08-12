@@ -17,5 +17,6 @@ strings\LongestCommonPrefix.class
 heap\MinHeap.class
 arrays\MaxPossibleValue.class
 arrays\PalindromeNumber.class
+arrays\RemoveElement.class
 strings\PrefixArray.class
 strings\LongestPalindrome2.class
