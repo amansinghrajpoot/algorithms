@@ -4,6 +4,7 @@ arraystest\LengthOfLongestSubstringTest.class
 arraystest\MaxSubsequentSumTest.class
 stringtest\KMPTest.class
 arraystest\MaxmimumSubarrayTest.class
+arraystest\RemoveDuplicateSortedArrayTest.class
 arraystest\MaxStockProfitTest.class
 graphstest\RemoveIslandTest.class
 arraystest\DuplicateElementTest.class

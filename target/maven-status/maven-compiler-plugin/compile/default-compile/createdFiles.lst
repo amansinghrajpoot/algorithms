@@ -12,6 +12,7 @@ arrays\MaxSubsequentSum.class
 main\App.class
 arrays\MaxStockProfit.class
 graphs\RemoveIsland.class
+arrays\RemoveDuplicatesSortedArray.class
 heap\MinHeap.class
 arrays\MaxPossibleValue.class
 arrays\PalindromeNumber.class
