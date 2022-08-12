@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="stringtest.LongestPalindromeTest" time="0.211" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="stringtest.LongestPalindromeTest" time="0.146" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="strip"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.3+7"/>
     <property name="sun.boot.library.path" value="C:\Users\Aman_Rajput\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Aman_Rajput\eclipse-workspace\algo"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Aman_Rajput\git\algorithms\algo"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Aman_Rajput\eclipse-workspace\algo"/>
+    <property name="user.dir" value="C:\Users\Aman_Rajput\git\algorithms\algo"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="17.0.3+7"/>
     <property name="os.arch" value="amd64"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Aman_Rajput\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9652425732208109648.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Aman_Rajput\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf17124476210520358817.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\Aman_Rajput\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Aman_Rajput/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin/server;C:/Users/Aman_Rajput/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Aman_Rajput\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2\bin;;C:\Users\Aman_Rajput\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aman_Rajput\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
@@ -50,7 +50,7 @@
     <property name="java.version" value="17.0.3"/>
     <property name="native.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
-    <property name="maven.home" value="C:\Users\Aman_Rajput\eclipse-workspace\algo\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\Aman_Rajput\git\algorithms\algo\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2022-04-19"/>
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
@@ -59,11 +59,11 @@
     <property name="java.vendor.version" value="Temurin-17.0.3+7"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom1" time="0.009"/>
+  <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom1" time="0"/>
   <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom3" time="0"/>
   <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom4" time="0"/>
   <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom5" time="0"/>
   <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom6" time="0"/>
-  <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom7" time="0.202"/>
+  <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom7" time="0.146"/>
   <testcase classname="stringtest.LongestPalindromeTest" name="isLongestPalindrom" time="0"/>
 </testsuite>

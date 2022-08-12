@@ -1,6 +1,4 @@
 stringtest\LongestPalindromeTest.class
-stringtest\LongestPalindrome2Test.class
-stringtest\PrefixArrayTest.class
 arraystest\ArrayProductExceptItselfTest.class
 arraystest\LengthOfLongestSubstringTest.class
 arraystest\MaxSubsequentSumTest.class
@@ -9,4 +7,9 @@ arraystest\MaxmimumSubarrayTest.class
 arraystest\MaxStockProfitTest.class
 graphstest\RemoveIslandTest.class
 arraystest\DuplicateElementTest.class
+arraystest\PalindromeNumberTest.class
+stringtest\LongestPalindrome2Test.class
+stringtest\PrefixArrayTest.class
+linkedlisttest\ReverseLinkedListTest.class
+arraystest\MaximumProductSubarrayTest.class
 heaptest\MinHeapTest.class

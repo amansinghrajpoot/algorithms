@@ -1,8 +1,11 @@
+arrays\MaximumProductSubarray.class
 strings\KMP.class
 arrays\DuplicateElement.class
+linkedlist\ReverseLinkedList.class
 strings\LongestPalindrome.class
 arrays\ArrayProductExceptSelf.class
 strings\LengthOfLongestSubstring.class
+linkedlist\ListNode.class
 arrays\MaximumSubarray.class
 stacks\BookShelves.class
 arrays\MaxSubsequentSum.class
@@ -11,5 +14,6 @@ arrays\MaxStockProfit.class
 graphs\RemoveIsland.class
 heap\MinHeap.class
 arrays\MaxPossibleValue.class
+arrays\PalindromeNumber.class
 strings\PrefixArray.class
 strings\LongestPalindrome2.class
