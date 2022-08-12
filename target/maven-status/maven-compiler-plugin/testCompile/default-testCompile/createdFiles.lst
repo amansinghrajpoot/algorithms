@@ -8,6 +8,7 @@ arraystest\RemoveDuplicateSortedArrayTest.class
 arraystest\MaxStockProfitTest.class
 graphstest\RemoveIslandTest.class
 arraystest\DuplicateElementTest.class
+stringtest\LongestCommonPrefixTest.class
 arraystest\PalindromeNumberTest.class
 stringtest\LongestPalindrome2Test.class
 stringtest\PrefixArrayTest.class

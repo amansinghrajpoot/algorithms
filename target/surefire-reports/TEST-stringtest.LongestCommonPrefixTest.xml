@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="linkedlisttest.ReverseLinkedListTest" time="0" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="stringtest.LongestCommonPrefixTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="strip"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -59,6 +59,6 @@
     <property name="java.vendor.version" value="Temurin-17.0.3+7"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="linkedlisttest.ReverseLinkedListTest" name="isReversed" time="0"/>
-  <testcase classname="linkedlisttest.ReverseLinkedListTest" name="isReversed2" time="0"/>
+  <testcase classname="stringtest.LongestCommonPrefixTest" name="checkPrefix2" time="0"/>
+  <testcase classname="stringtest.LongestCommonPrefixTest" name="checkPrefix" time="0"/>
 </testsuite>

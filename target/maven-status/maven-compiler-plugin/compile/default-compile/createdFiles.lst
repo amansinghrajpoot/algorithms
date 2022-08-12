@@ -13,6 +13,7 @@ main\App.class
 arrays\MaxStockProfit.class
 graphs\RemoveIsland.class
 arrays\RemoveDuplicatesSortedArray.class
+strings\LongestCommonPrefix.class
 heap\MinHeap.class
 arrays\MaxPossibleValue.class
 arrays\PalindromeNumber.class
