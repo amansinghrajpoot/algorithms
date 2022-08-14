@@ -12,6 +12,7 @@ arrays\ArrayProductExceptSelf.class
 strings\LengthOfLongestSubstring.class
 strings\HaystackAndNeedle.class
 linkedlist\ListNode.class
+arrays\SearchInsertPosition.class
 linkedlist\IntersectionOfTwoLinkedList.class
 arrays\MaximumSubarray.class
 stacks\BookShelves.class
