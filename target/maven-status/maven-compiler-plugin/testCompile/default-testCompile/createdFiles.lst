@@ -16,5 +16,6 @@ stringtest\LongestPalindrome2Test.class
 stringtest\PrefixArrayTest.class
 linkedlisttest\ReverseLinkedListTest.class
 arraystest\MaximumProductSubarrayTest.class
+linkedlisttest\IntersectionOfTwoLinkedListTest.class
 stringtest\HaystackAndNeedleTest.class
 heaptest\MinHeapTest.class
