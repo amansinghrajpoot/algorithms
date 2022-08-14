@@ -5,6 +5,7 @@ linkedlist\ReverseLinkedList.class
 strings\LongestPalindrome.class
 arrays\ArrayProductExceptSelf.class
 strings\LengthOfLongestSubstring.class
+strings\HaystackAndNeedle.class
 linkedlist\ListNode.class
 arrays\MaximumSubarray.class
 stacks\BookShelves.class
