@@ -16,8 +16,6 @@ public class FindMissingLetters {
 		Arrays.sort(input);
 		String temp = null;
 
-		for(String i : input) System.out.print(i);
-
 		for(int i = 0; i < input.length && j < lowercase.length; i++) {
 			if(( (int) input[i].charAt(0) >= 65 && (int) input[i].charAt(0) <= 90 ) || ( (int) input[i].charAt(0) >= 97 && (int) input[i].charAt(0) <= 122 )) {
 				
