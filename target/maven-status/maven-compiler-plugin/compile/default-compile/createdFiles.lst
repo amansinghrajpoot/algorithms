@@ -11,6 +11,7 @@ arrays\MaximumSubarray.class
 stacks\BookShelves.class
 arrays\MaxSubsequentSum.class
 main\App.class
+strings\FindMissingLetters.class
 arrays\MaxStockProfit.class
 graphs\RemoveIsland.class
 arrays\RemoveDuplicatesSortedArray.class

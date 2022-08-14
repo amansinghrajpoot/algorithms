@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="arraystest.PalindromeNumberTest" time="0" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="stringtest.FindMissingLettersTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="strip"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -59,10 +59,8 @@
     <property name="java.vendor.version" value="Temurin-17.0.3+7"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome1" time="0"/>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome2" time="0"/>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome3" time="0"/>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome4" time="0"/>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome5" time="0"/>
-  <testcase classname="arraystest.PalindromeNumberTest" name="isPalidrome6" time="0"/>
+  <testcase classname="stringtest.FindMissingLettersTest" name="findMissingLetter1" time="0"/>
+  <testcase classname="stringtest.FindMissingLettersTest" name="findMissingLetter2" time="0.001"/>
+  <testcase classname="stringtest.FindMissingLettersTest" name="findMissingLetter3" time="0"/>
+  <testcase classname="stringtest.FindMissingLettersTest" name="findMissingLetter4" time="0"/>
 </testsuite>
