@@ -20,3 +20,4 @@ arraystest\MaximumProductSubarrayTest.class
 linkedlisttest\IntersectionOfTwoLinkedListTest.class
 stringtest\HaystackAndNeedleTest.class
 heaptest\MinHeapTest.class
+stringtest\MinimumIndexSumOfTwoListTest.class
