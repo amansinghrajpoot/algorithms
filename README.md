@@ -1,1 +1,3 @@
 # algorithms
+
+Added Leetcode solutions.
