@@ -1,3 +1,0 @@
-# algorithms
-
-Added Leetcode solutions.
